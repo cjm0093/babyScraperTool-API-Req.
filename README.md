@@ -1,5 +1,5 @@
 # babyScraperTool-API-Req.
-A baby scraper tool that searches the Target.com and makes a .csv file for formatting data.
+A baby scraper tool that searches the Target.com and makes a .csv file for formatting the data.
 
 Baby item scraper tool 
 	finds+creates a baby registry using most necessary items 
