@@ -6,7 +6,7 @@ Baby item scraper tool
 	automatically compares reviews from Target.com,checks prices to find an overall best pick for each category.
 
 
-		
+	
     expenseSelector
       Allows user to select what price difference they prefer, 
 	Prioritize expensive high-quality items- 
