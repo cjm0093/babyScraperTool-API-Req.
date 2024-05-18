@@ -7,7 +7,7 @@ Baby item scraper tool
 
 
 expenseSelector
-	Allows user to select what price difference they prefer, 
+Allows user to select what price difference they prefer, 
 Prioritize expensive high-quality items- 
 Prioritize balanced cost items for an even quality/price ratio-
 Prioritize cost-effective options for a better price/performance ratio-
