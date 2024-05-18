@@ -3,7 +3,7 @@ A baby scraper tool that searches the Target.com and makes a .csv file for forma
 
 Baby item scraper tool 
 	finds+creates a baby registry using most necessary items 
-	automatically compares reviews from Target.com,checks prices to find an overall best pick for each category.
+	automatically compares reviews from Target.com, checks prices to find an overall best pick for each category.
 
 
 	expenseSelector
