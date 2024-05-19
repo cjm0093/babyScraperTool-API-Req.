@@ -2,8 +2,8 @@
 A baby scraper tool that searches Target.com creates a .csv file and formats the data.
 
 Baby item scraper tool 
-	finds+creates a baby registry using most necessary items 
-	automatically compares reviews from Target.com, checks prices to find an overall best pick for each category.
+	finds+creates a baby registry using most necessary items, 
+	automatically compares reviews from Target.com, checks prices, and finds an overall best pick for each category.
 
 
 	expenseSelector
